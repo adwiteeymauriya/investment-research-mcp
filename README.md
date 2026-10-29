@@ -1,6 +1,6 @@
 # Investment Research MCP
 
-A public home for a long-term, read-only MCP research toolkit covering portfolio context, investor disclosures, news, major product reveals, global indicators, geopolitical events, and commodity data.
+A public home for a long-term MCP research toolkit covering portfolio context, investor disclosures, news, major product reveals, global indicators, geopolitical events, and commodity data.
 
 ## Current status
 
@@ -10,4 +10,4 @@ The existing IBKR public MCP is a separate, already-connected source. This proje
 
 ## Join the discussion
 
-Read [Help build read-only investment research MCP tools](https://github.com/adwiteeymauriya/investment-research-mcp/discussions/1), then share a source you know, a usable endpoint or existing MCP, its limitations, or a small tool you would build.
+Read [Help build investment research MCP tools](https://github.com/adwiteeymauriya/investment-research-mcp/discussions/1), then share a source you know, a usable endpoint or existing MCP, its limitations, or a small tool you would build.
